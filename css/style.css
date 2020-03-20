@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #efeee7;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    color: #333333;
+
+}
+
+.header {
+    background-color: #333333;
+    color: #eee;
+    font-size: 28px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.Name {
+    margin-left: 150px;
+    font-size: 24px;
+
+
+}
+
+.Img {
+    float: left;
+    margin-left: 150px;
+
+
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    float: left;
+    text-align: justify;
+    margin-left: 25px;
+    margin-top: -25px;
+
+}
+
+.container a {
+    color: #d21034;
+
+}
+
+.Contact {
+    float: left;
+    margin-top: -80px;
+    margin-left: 50px;
+    
+}
+
+.Contact a {
+    color: #d21034;
+
+}
